@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-week2-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.4",
+    "nodemon": "^3.1.0"
+  }
+}
